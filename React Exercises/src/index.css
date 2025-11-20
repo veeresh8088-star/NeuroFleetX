@@ -1,0 +1,14 @@
+/* Reset default margin & padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+/* Body styles */
+body {
+  font-family: 'Fira Code', monospace;
+  background: linear-gradient(to bottom right, #0a0a0a, #000);
+  color: #00faff;
+}
